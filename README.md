@@ -4,7 +4,6 @@
 
 ![MonadSpin Banner](Banner/Banner.png)
 
-MonadSpin is an innovative platform designed to revolutionize user interaction and community growth within the Monad ecosystem. By blending gamified experiences with seamless social integration, MonadSpin addresses critical challenges facing the Web3 space today, making blockchain technology more accessible, engaging, and rewarding for everyone.
 
 ## Screenshots
 
